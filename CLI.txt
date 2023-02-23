@@ -1,0 +1,7 @@
+1. To create a hidden file or folder all you have to do is create that file or folder with a (.) dot at the beginning eg mkdir .secret   
+In order to view the hidden items use the command ls -a then the hidden items will be listed together with all the other items in that particular directory.
+2. to create multiple nested directories we use the command -p for example mkdir -p me/you/us
+3.To create line breaks without using /n, we use the command echo 
+echo first message 
+echo second message
+
